@@ -1,0 +1,28 @@
+Plugin Name	: iframe popup
+Plugin URI	: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/
+Author		: Gopi Ramasamy
+Author URI	: http://www.gopiplus.com
+License		: GPLv2 or later
+License URI	: http://www.gnu.org/licenses/gpl-2.0.html
+ 
+********************************Version 1.0************************************************************
+
+First version.
+
+1. Lightweight JQuery (fancybox extension).
+2. Timeout to open popup.
+3. Option to configure once per session.
+4. Responsive.
+
+********************************Version 1.1************************************************************
+
+Default link changed to http://www.example.com/
+
+File changed
+File Name : classes/iframe-query.php
+Method : public static function popup_default()
+
+********************************Version 1.2************************************************************
+
+1. Tested up to 3.9
+2. Listed plugin on WordPress directory.
