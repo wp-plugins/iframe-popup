@@ -108,6 +108,7 @@ if ($iframepopup_error_found == FALSE && strlen($iframepopup_success) > 0)
 	}
 ?>
 <script language="JavaScript" src="<?php echo IFRAMEPOP_URL; ?>page/setting.js"></script>
+<script language="JavaScript" src="<?php echo IFRAMEPOP_URL; ?>inc/color/jscolor.js"></script>
 <div class="form-wrap">
 	<div id="icon-edit" class="icon32 icon32-posts-post"><br></div>
 	<h2><?php _e(IFRAMEPOP_PLUGIN_DISPLAY, IFRAMEPOP_TDOMAIN); ?></h2>
@@ -197,7 +198,7 @@ if ($iframepopup_error_found == FALSE && strlen($iframepopup_success) > 0)
 		<p><?php _e('Please enter popup expiration date in this format YYYY-MM-DD', IFRAMEPOP_TDOMAIN); ?></p>	
 		
 		<label for="tag-a"><?php _e('Overlay Color', IFRAMEPOP_TDOMAIN); ?></label>
-		<input name="overlaycolor" type="text" id="overlaycolor" value="#666666" maxlength="7" />
+		<input class="color" type="text" name="overlaycolor" id="overlaycolor" value="#666666" maxlength="7" />
 		<p><?php _e('Color of the overlay for popup window. (Example: #666666)', IFRAMEPOP_TDOMAIN); ?></p>	
 		
 		<label for="tag-a"><?php _e('Category', IFRAMEPOP_TDOMAIN); ?></label>

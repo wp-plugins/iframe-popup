@@ -23,30 +23,37 @@ Check official website for live demo [http://www.gopiplus.com/work/2014/04/13/if
 
 Iframe popup plugin is specially developed to display any webpage in the popup window using web URL. Iframe popup uses JQuery fancybox extension to display popup in iframe window. This plugin will help you to display popup window easily in your blog. You can easily customize the fancybox popup attributes in the plugin admin page.
 
-Plugin Features:
+= Plugin Features: =
 
 *   Lightweight JQuery (fancybox extension).
 *   Timeout to open popup.
 *   Option to configure once per session.
 *   Responsive.
 
-Frequently Asked Questions:
+= Frequently Asked Questions: =
 
-1. How to show popup in specific page/post?
+*   How to show popup in specific page/post?
+*   How to show popup in entire website?
+*   How to show popup only on home page?
+*   How to show popup in entire website except home page?
+*   How to display iframe popup window once per session?
+*   What is CATEGORY and ID in the plugin short code?
+*   How to set/modify popup window size?
+*   How to hide/disable popup temporarily?
 
-2. How to show popup in entire website?
+= Configuration option: =
 
-3. How to show popup only on home page?
+= How to show popup in specific page/post? =
 
-4. How to show popup in entire website except home page?
+Use plugin short code to display the popup in specific posts or pages. Just copy and paste the available short code in your post.
 
-5. How to display iframe popup window once per session?
+= How to show popup in entire website? =
 
-6. What is CATEGORY and ID in the plugin short code?
+Go to widget page and drag and drop the widget IFrame popup into your sidebar, so that popup will display in entire website. (or) Just copy plugin PHP code in footer.php file.
 
-7. How to set/modify popup window size?
+= How to show popup only on home page? =
 
-8. How to hide/disable popup temporarily?
+Add the plugin PHP code in your theme footer.php file.
 
 == Installation ==
 
@@ -55,21 +62,14 @@ Installation Instruction and Configuration [Installation Instruction and Configu
 
 == Frequently Asked Questions ==
 
-= Q1. How to show popup in specific page/post? =
-
-= Q2. How to show popup in entire website? =
-
-= Q3. How to show popup only on home page? =
-
-= Q4. How to show popup in entire website except home page? =
-
-= Q5. How to display iframe popup window once per session? =
-
-= Q6. What is CATEGORY and ID in the plugin short code? =
-
-= Q7. How to set/modify popup window size? =
-
-= Q8. How to hide/disable popup temporarily? =
+*   Q1. How to show popup in specific page/post?
+*   Q2. How to show popup in entire website?
+*   Q3. How to show popup only on home page?
+*   Q4. How to show popup in entire website except home page?
+*   Q5. How to display iframe popup window once per session?
+*   Q6. What is CATEGORY and ID in the plugin short code?
+*   Q7. How to set/modify popup window size?
+*   Q8. How to hide/disable popup temporarily?
 
 FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/]
 (http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/)
@@ -84,28 +84,36 @@ FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 
 = 1.0 =
 
-1. First version
+*  First version
 
 = 1.1 =
 
-1. As per wp plugin team advice default link changed to http://www.example.com/
+*  As per wp plugin team advice default link changed to http://www.example.com/
 
 = 1.2 =
 
-1. Tested up to 3.9
-2. Listed plugin on WordPress directory.
+*  Tested up to 3.9
+*  Listed plugin on WordPress directory.
+
+= 1.3 =
+
+* jscolor picker added for Overlay Color textbox.
 
 == Upgrade Notice ==
 
 = 1.0 =
 
-1. First version
+*  First version
 
 = 1.1 =
 
-2. As per wp plugin team advice default link changed to http://www.example.com/
+*  As per wp plugin team advice default link changed to http://www.example.com/
 
 = 1.2 =
 
-1. Tested up to 3.9
-2. Listed plugin on WordPress directory.
+*  Tested up to 3.9
+*  Listed plugin on WordPress directory.
+
+= 1.3 =
+
+* jscolor picker added for Overlay Color textbox.
