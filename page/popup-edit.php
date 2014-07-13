@@ -202,7 +202,7 @@ if ($iframepopup_error_found == FALSE && strlen($iframepopup_success) > 0)
 		?>
 		<select name="group" id="group">
 			<?php 
-			for($i=1; $i<=10; $i++) 
+			for($i=1; $i<=15; $i++) 
 			{ 
 				if($form['group'] == "Category".$i) 
 				{ 

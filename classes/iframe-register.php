@@ -79,15 +79,15 @@ class iframepopup_cls_registerhook
 	{
 		register_widget( 'iframepopup_widget_register' );
 	}
-	
-	function iframepopup_add_javascript_files() 
+}
+
+function iframepopup_add_javascript_files() 
+{
+	if (!is_admin())
 	{
-		if (!is_admin())
-		{
-			wp_enqueue_script('jquery');
-			wp_enqueue_style( 'jquery.fancybox-1.3.4', IFRAMEPOP_URL.'inc/jquery.fancybox-1.3.4.css');
-			wp_enqueue_script('jquery.fancybox-1.3.4', IFRAMEPOP_URL.'inc/jquery.fancybox-1.3.4.js');
-		}
+		wp_enqueue_script('jquery');
+		wp_enqueue_style( 'jquery.fancybox-1.3.4', IFRAMEPOP_URL.'inc/jquery.fancybox-1.3.4.css');
+		wp_enqueue_script('jquery.fancybox-1.3.4', IFRAMEPOP_URL.'inc/jquery.fancybox-1.3.4.js');
 	}
 }
 

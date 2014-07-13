@@ -30,3 +30,8 @@ Method : public static function popup_default()
 ********************************Version 1.3************************************************************
 
 1. jscolor picker added for Overlay Color textbox.
+
+********************************Version 1.4************************************************************
+
+1. Fixed PHP warning message in JavaScript registration method.
+2. In Category dropdown box, the category list has been increased from 10 to 15.

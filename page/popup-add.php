@@ -203,7 +203,7 @@ if ($iframepopup_error_found == FALSE && strlen($iframepopup_success) > 0)
 		
 		<label for="tag-a"><?php _e('Category', IFRAMEPOP_TDOMAIN); ?></label>
 		<select name="group" id="group">
-			<?php for($i=1; $i<=10; $i++) { ?>
+			<?php for($i=1; $i<=15; $i++) { ?>
 				<option value='Category<?php echo $i; ?>'>Category<?php echo $i; ?></option>
 			<?php } ?>
 		</select>

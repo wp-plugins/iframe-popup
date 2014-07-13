@@ -122,7 +122,7 @@ if (isset($_POST['frm_iframepopup_display']) && $_POST['frm_iframepopup_display'
 	  <div class="tablenav">
 	  <h2>
 	  <a class="button add-new-h2" href="<?php echo IFRAMEPOP_ADMINURL; ?>&amp;ac=add"><?php _e('Add New', IFRAMEPOP_TDOMAIN); ?></a>
-	  <a class="button add-new-h2" href="<?php echo IFRAMEPOP_ADMINURL; ?>&amp;ac=set"><?php _e('Setting', IFRAMEPOP_TDOMAIN); ?></a>
+	  <a class="button add-new-h2" href="<?php echo IFRAMEPOP_ADMINURL; ?>&amp;ac=set"><?php _e('Session Setting', IFRAMEPOP_TDOMAIN); ?></a>
 	  <a class="button add-new-h2" target="_blank" href="<?php echo IFRAMEPOP_FAV; ?>"><?php _e('Help', IFRAMEPOP_TDOMAIN); ?></a>
 	  </h2>
 	  </div>

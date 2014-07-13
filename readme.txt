@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 Plugin URI: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/
 Tags: iframe, popup
 Requires at least: 3.4
-Tested up to: 3.9
-Stable tag: 1.2
+Tested up to: 3.9.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -99,6 +99,11 @@ FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 
 * jscolor picker added for Overlay Color textbox.
 
+= 1.4 =
+
+1. Fixed PHP warning message in JavaScript registration method.
+2. In Category dropdown box, the category list has been increased from 10 to 15.
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -117,3 +122,8 @@ FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 = 1.3 =
 
 * jscolor picker added for Overlay Color textbox.
+
+= 1.4 =
+
+1. Fixed PHP warning message in JavaScript registration method.
+2. In Category dropdown box, the category list has been increased from 10 to 15.

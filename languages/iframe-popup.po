@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iframe popup\n"
-"POT-Creation-Date: 2014-04-18 11:47+0800\n"
-"PO-Revision-Date: 2014-04-18 11:47+0800\n"
+"POT-Creation-Date: 2014-07-13 10:18+0800\n"
+"PO-Revision-Date: 2014-07-13 10:18+0800\n"
 "Last-Translator: \n"
 "Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
 "MIME-Version: 1.0\n"
@@ -13,24 +13,24 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../classes/iframe-register.php:45
+#: ../classes/iframe-register.php:46
 msgid "These tables could not be created on installation "
 msgstr ""
 
-#: ../classes/iframe-register.php:72 ../classes/iframe-register.php:73
+#: ../classes/iframe-register.php:73 ../classes/iframe-register.php:74
 msgid "IFrame popup"
 msgstr ""
 
-#: ../classes/iframe-register.php:142
+#: ../classes/iframe-register.php:143
 msgid "Widget Title"
 msgstr ""
 
-#: ../classes/iframe-register.php:146
+#: ../classes/iframe-register.php:147
 msgid "Popup Id"
 msgstr ""
 
-#: ../page/popup-add.php:35 ../page/popup-add.php:123
-#: ../page/popup-edit.php:50 ../page/popup-edit.php:118
+#: ../page/popup-add.php:35 ../page/popup-add.php:124
+#: ../page/popup-edit.php:50 ../page/popup-edit.php:119
 msgid "Enter your title for popup window."
 msgstr ""
 
@@ -56,128 +56,128 @@ msgstr ""
 msgid "to view the details"
 msgstr ""
 
-#: ../page/popup-add.php:115
+#: ../page/popup-add.php:116
 msgid "Add details"
 msgstr ""
 
-#: ../page/popup-add.php:117 ../page/popup-edit.php:112
+#: ../page/popup-add.php:118 ../page/popup-edit.php:113
 msgid "Iframe URL"
 msgstr ""
 
-#: ../page/popup-add.php:119 ../page/popup-edit.php:114
+#: ../page/popup-add.php:120 ../page/popup-edit.php:115
 msgid ""
 "Enter URL to display in Iframe popup window. URL must start with either http "
 "or https."
 msgstr ""
 
-#: ../page/popup-add.php:121 ../page/popup-edit.php:116
+#: ../page/popup-add.php:122 ../page/popup-edit.php:117
 msgid "Popup title"
 msgstr ""
 
-#: ../page/popup-add.php:125 ../page/popup-edit.php:120
+#: ../page/popup-add.php:126 ../page/popup-edit.php:121
 #: ../page/popup-show.php:59 ../page/popup-show.php:73
 msgid "Width"
 msgstr ""
 
-#: ../page/popup-add.php:141 ../page/popup-edit.php:136
+#: ../page/popup-add.php:142 ../page/popup-edit.php:137
 msgid "Select your width percentage for popup window."
 msgstr ""
 
-#: ../page/popup-add.php:143 ../page/popup-edit.php:138
+#: ../page/popup-add.php:144 ../page/popup-edit.php:139
 #: ../page/popup-show.php:60 ../page/popup-show.php:74
 msgid "Height"
 msgstr ""
 
-#: ../page/popup-add.php:159 ../page/popup-edit.php:154
+#: ../page/popup-add.php:160 ../page/popup-edit.php:155
 msgid "Select your height percentage for popup window."
 msgstr ""
 
-#: ../page/popup-add.php:161 ../page/popup-edit.php:156
+#: ../page/popup-add.php:162 ../page/popup-edit.php:157
 msgid "Transition In"
 msgstr ""
 
-#: ../page/popup-add.php:167 ../page/popup-edit.php:162
+#: ../page/popup-add.php:168 ../page/popup-edit.php:163
 msgid "Transition type while opening popup window."
 msgstr ""
 
-#: ../page/popup-add.php:169 ../page/popup-edit.php:164
+#: ../page/popup-add.php:170 ../page/popup-edit.php:165
 msgid "Transition Out"
 msgstr ""
 
-#: ../page/popup-add.php:175 ../page/popup-edit.php:170
+#: ../page/popup-add.php:176 ../page/popup-edit.php:171
 msgid "Transition type while closing popup window."
 msgstr ""
 
-#: ../page/popup-add.php:177 ../page/popup-edit.php:172
+#: ../page/popup-add.php:178 ../page/popup-edit.php:173
 msgid "Center on scroll"
 msgstr ""
 
-#: ../page/popup-add.php:182 ../page/popup-edit.php:177
+#: ../page/popup-add.php:183 ../page/popup-edit.php:178
 msgid "If true, popup window is centered while scrolling page."
 msgstr ""
 
-#: ../page/popup-add.php:184 ../page/popup-edit.php:179
+#: ../page/popup-add.php:185 ../page/popup-edit.php:180
 msgid "Show Title"
 msgstr ""
 
-#: ../page/popup-add.php:189 ../page/popup-edit.php:184
+#: ../page/popup-add.php:190 ../page/popup-edit.php:185
 msgid "Display title under popup window."
 msgstr ""
 
-#: ../page/popup-add.php:191 ../page/popup-edit.php:186
+#: ../page/popup-add.php:192 ../page/popup-edit.php:187
 #: ../page/popup-show.php:61 ../page/popup-show.php:75
 msgid "Start Date"
 msgstr ""
 
-#: ../page/popup-add.php:193 ../page/popup-edit.php:188
+#: ../page/popup-add.php:194 ../page/popup-edit.php:189
 msgid "Please enter popup display start date in this format YYYY-MM-DD"
 msgstr ""
 
-#: ../page/popup-add.php:195 ../page/popup-edit.php:190
+#: ../page/popup-add.php:196 ../page/popup-edit.php:191
 msgid "Expiration Date"
 msgstr ""
 
-#: ../page/popup-add.php:197 ../page/popup-edit.php:192
+#: ../page/popup-add.php:198 ../page/popup-edit.php:193
 msgid "Please enter popup expiration date in this format YYYY-MM-DD"
 msgstr ""
 
-#: ../page/popup-add.php:199 ../page/popup-edit.php:194
+#: ../page/popup-add.php:200 ../page/popup-edit.php:195
 #: ../page/popup-show.php:64 ../page/popup-show.php:78
 msgid "Overlay Color"
 msgstr ""
 
-#: ../page/popup-add.php:201 ../page/popup-edit.php:196
+#: ../page/popup-add.php:202 ../page/popup-edit.php:197
 msgid "Color of the overlay for popup window. (Example: #666666)"
 msgstr ""
 
-#: ../page/popup-add.php:203 ../page/popup-edit.php:198
+#: ../page/popup-add.php:204 ../page/popup-edit.php:199
 #: ../page/popup-show.php:63 ../page/popup-show.php:77
 msgid "Category"
 msgstr ""
 
-#: ../page/popup-add.php:209 ../page/popup-edit.php:215
+#: ../page/popup-add.php:210 ../page/popup-edit.php:216
 msgid "Select category for this popup content."
 msgstr ""
 
-#: ../page/popup-add.php:211 ../page/popup-edit.php:217
+#: ../page/popup-add.php:212 ../page/popup-edit.php:218
 msgid "Timeout"
 msgstr ""
 
-#: ../page/popup-add.php:223 ../page/popup-edit.php:229
+#: ../page/popup-add.php:224 ../page/popup-edit.php:230
 msgid "Timeout to open popup window."
 msgstr ""
 
-#: ../page/popup-add.php:228 ../page/popup-edit.php:234
+#: ../page/popup-add.php:229 ../page/popup-edit.php:235
 #: ../page/popup-setting.php:36
 msgid "Submit"
 msgstr ""
 
-#: ../page/popup-add.php:229 ../page/popup-edit.php:235
+#: ../page/popup-add.php:230 ../page/popup-edit.php:236
 #: ../page/popup-setting.php:37
 msgid "Cancel"
 msgstr ""
 
-#: ../page/popup-add.php:230 ../page/popup-edit.php:236
+#: ../page/popup-add.php:231 ../page/popup-edit.php:237
 #: ../page/popup-setting.php:38 ../page/popup-show.php:126
 msgid "Help"
 msgstr ""
@@ -190,11 +190,11 @@ msgstr ""
 msgid "Details was successfully updated."
 msgstr ""
 
-#: ../page/popup-edit.php:110
+#: ../page/popup-edit.php:111
 msgid "Update details"
 msgstr ""
 
-#: ../page/popup-setting.php:24
+#: ../page/popup-setting.php:24 ../page/popup-show.php:125
 msgid "Session Setting"
 msgstr ""
 
@@ -242,10 +242,6 @@ msgstr ""
 
 #: ../page/popup-show.php:114
 msgid "No records available."
-msgstr ""
-
-#: ../page/popup-show.php:125
-msgid "Setting"
 msgstr ""
 
 #: ../page/popup-show.php:130
