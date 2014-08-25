@@ -3,7 +3,7 @@
 Plugin Name: iframe popup
 Plugin URI: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/
 Description: Iframe popup plugin is specially developed to display any webpage in the popup window using web URL. Iframe popup uses JQuery fancybox extension to display popup in iframe window. This plugin will help you to display popup window easily in your blog. You can easily customize the fancybox popup attributes in the plugin admin page.
-Version: 1.4
+Version: 1.5
 Author: Gopi Ramasamy
 Donate link: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/
 Author URI: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/

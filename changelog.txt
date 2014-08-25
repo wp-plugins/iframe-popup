@@ -35,3 +35,7 @@ Method : public static function popup_default()
 
 1. Fixed PHP warning message in JavaScript registration method.
 2. In Category dropdown box, the category list has been increased from 10 to 15.
+
+********************************Version 1.5************************************************************
+
+1. Tested up to 4.0

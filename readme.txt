@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 Plugin URI: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/
 Tags: iframe, popup
 Requires at least: 3.4
-Tested up to: 3.9.1
-Stable tag: 1.4
+Tested up to: 4.0
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,8 +57,7 @@ Add the plugin PHP code in your theme footer.php file.
 
 == Installation ==
 
-Installation Instruction and Configuration [Installation Instruction and Configuration] 
-(http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/)
+[Installation Instruction and Configuration](http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/)
 
 == Frequently Asked Questions ==
 
@@ -71,8 +70,7 @@ Installation Instruction and Configuration [Installation Instruction and Configu
 *   Q7. How to set/modify popup window size?
 *   Q8. How to hide/disable popup temporarily?
 
-FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/]
-(http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/)
+FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/](http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/)
 
 == Screenshots ==
 
@@ -104,6 +102,10 @@ FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 1. Fixed PHP warning message in JavaScript registration method.
 2. In Category dropdown box, the category list has been increased from 10 to 15.
 
+= 1.5 =
+
+*  Tested up to 4.0
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -127,3 +129,7 @@ FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 
 1. Fixed PHP warning message in JavaScript registration method.
 2. In Category dropdown box, the category list has been increased from 10 to 15.
+
+= 1.5 =
+
+*  Tested up to 4.0
