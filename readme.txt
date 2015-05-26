@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 Plugin URI: http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugin/
 Tags: iframe, popup
 Requires at least: 3.4
-Tested up to: 4.1
-Stable tag: 1.6
+Tested up to: 4.2.2
+Stable tag: 1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -110,6 +110,10 @@ FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 
 *  Tested up to 4.1
 
+= 1.7 =
+
+1. Tested up to 4.2.2
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -141,3 +145,7 @@ FAQ Answer [http://www.gopiplus.com/work/2014/04/13/iframe-popup-wordpress-plugi
 = 1.6 =
 
 *  Tested up to 4.1
+
+= 1.7 =
+
+1. Tested up to 4.2.2
