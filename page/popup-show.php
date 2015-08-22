@@ -4,6 +4,7 @@
 if (isset($_POST['frm_iframepopup_display']) && $_POST['frm_iframepopup_display'] == 'yes')
 {
 	$did = isset($_GET['did']) ? $_GET['did'] : '0';
+	if(!is_numeric($did)) { die('<p>Are you sure you want to do this?</p>'); }
 	
 	$iframepopup_success = '';
 	$iframepopup_success_msg = FALSE;
@@ -52,7 +53,6 @@ if (isset($_POST['frm_iframepopup_display']) && $_POST['frm_iframepopup_display'
       <table width="100%" class="widefat" id="straymanage">
         <thead>
           <tr>
-            <th class="check-column" scope="col"><input type="checkbox" name="iframepopup_group_item[]" /></th>
 			<th scope="col"><?php _e('Id', IFRAMEPOP_TDOMAIN); ?></th>
 			<th scope="col"><?php _e('Title', IFRAMEPOP_TDOMAIN); ?></th>
             <th scope="col"><?php _e('URL', IFRAMEPOP_TDOMAIN); ?></th>
@@ -66,7 +66,6 @@ if (isset($_POST['frm_iframepopup_display']) && $_POST['frm_iframepopup_display'
         </thead>
 		<tfoot>
           <tr>
-            <th class="check-column" scope="col"><input type="checkbox" name="iframepopup_group_item[]" /></th>
 			<th scope="col"><?php _e('Id', IFRAMEPOP_TDOMAIN); ?></th>
 			<th scope="col"><?php _e('Title', IFRAMEPOP_TDOMAIN); ?></th>
             <th scope="col"><?php _e('URL', IFRAMEPOP_TDOMAIN); ?></th>
@@ -87,7 +86,6 @@ if (isset($_POST['frm_iframepopup_display']) && $_POST['frm_iframepopup_display'
 				{
 					?>
 					<tr class="<?php if ($i&1) { echo'alternate'; } else { echo ''; }?>">
-						<td align="left"><input type="checkbox" value="<?php echo $data['id']; ?>" name="iframepopup_group_item[]"></td>
 						<td><?php echo $data['id']; ?></td>
 						<td><?php echo stripslashes(substr($data['title'], 0, 25)); ?>...
 						<div class="row-actions">
@@ -111,7 +109,7 @@ if (isset($_POST['frm_iframepopup_display']) && $_POST['frm_iframepopup_display'
 			}
 			else
 			{
-				?><tr><td colspan="10" align="center"><?php _e('No records available.', IFRAMEPOP_TDOMAIN); ?></td></tr><?php 
+				?><tr><td colspan="9" align="center"><?php _e('No records available.', IFRAMEPOP_TDOMAIN); ?></td></tr><?php 
 			}
 			?>
 		</tbody>
